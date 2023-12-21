@@ -3,7 +3,7 @@
     {
       "name": "Step 1 Create a Branch",
       "setup": "sleep 20",
-      "run": "[ ]",
+      "run": "[ echo 0]",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -13,7 +13,7 @@
     {
       "name": "Step 2 Commit a File",
       "setup": "sleep 20",
-      "run": "[  ]",
+      "run": "[ echo 0 ]",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -23,7 +23,7 @@
     {
       "name": "Step 3 Open a Pull Request",
       "setup": "sleep 20",
-      "run": "[ ]",
+      "run": "[ echo 0 ]",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -33,7 +33,7 @@
     {
       "name": "Step 4 Merge Your Pull Request",
       "setup": "sleep 20",
-      "run": "[ ]",
+      "run": "[ echo 0 ]",
       "input": "",
       "output": "",
       "comparison": "included",
